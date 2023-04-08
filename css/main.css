@@ -12,6 +12,10 @@ body {
   background-position: 0px;
 }
 
+.none {
+  display: none !important;
+}
+
 .container-left {
   padding: 25px 15px 100px;
   width: 930px;
